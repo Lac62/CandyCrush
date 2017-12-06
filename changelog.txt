@@ -1,0 +1,3 @@
+Change Log Dec6th:
+-Set up LibGDX into the CandyCrush Project
+-Committed CandyCrush project to Github
