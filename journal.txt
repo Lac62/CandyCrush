@@ -1,0 +1,7 @@
+12/8/17:
+  This week i started the process of installing, and learning how to code with LibGDX in android studio. 
+  When i was creating a new project with LibGDX, i was have a problem with 
+  it unsucessfully generating the new project. To fix this problem, i had to go to the LibGDX website and download
+  the newest version of LibGDX. Once this was done, i was able to sucessfully generate the new project. Problems that i face everyday is
+  that the new project had a numerous amount of new libraries that i have yet to get familiar with, which is a constant struggle. 
+  Im hoping to soon be able to start implementing what i am learning into my own project, but the learning curve has been very steep.
