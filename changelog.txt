@@ -1,3 +1,9 @@
 Change Log Dec6th:
 -Set up LibGDX into the CandyCrush Project
 -Committed CandyCrush project to Github
+
+Change Log Dec8th:
+-Learned to import textures into project(yet to be implemented)
+-Learned to create a "world" in the project
+-Learned to change certain demensions in the world
+-Learned to change the design of the world
