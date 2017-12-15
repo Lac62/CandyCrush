@@ -15,3 +15,9 @@ Change Log Dec13th:
 -Started to learn to switch between levels
 -Started the base foundation for the candy crush project
 -Created the bade floor for the candy crush project
+
+Change Log Dec15th: 
+- Logged aproximately 2.5 hours at home in the past 2 day looking for ways to make the "world" into a 2D view point
+- Worked on level loading and how the functionality works with that
+- Worked on the functionality of the sprites in the game
+- Fixed a bug where sprites could overlap each other on the same tile
