@@ -1,7 +1,6 @@
 12/8/17:
   This week i started the process of installing, and learning how to code with LibGDX in android studio. 
-  When i was creating a new project with LibGDX, i was have a problem with 
-  it unsucessfully generating the new project. To fix this problem, i had to go to the LibGDX website and download
-  the newest version of LibGDX. Once this was done, i was able to sucessfully generate the new project. Problems that i face everyday is
-  that the new project had a numerous amount of new libraries that i have yet to get familiar with, which is a constant struggle. 
-  Im hoping to soon be able to start implementing what i am learning into my own project, but the learning curve has been very steep.
+  When i was creating a new project with LibGDX, i was have a problem with it unsucessfully generating the new project. To fix this         problem, i had to go to the LibGDX website and downloadthe newest version of LibGDX. Once this was done, i was able to sucessfully         generate the new project. Problems that i face everyday isthat the new project had a numerous amount of new libraries that i have yet to   get familiar with, which is a constant struggle. Im hoping to soon be able to start implementing what i am learning into my own project,   but the learning curve has been very steep.
+ 
+12/15/17:
+  This week i learned a lot about the functionality of many things inside LibGDX. I spent a majority of time in class and about 2 and a half hours outside of class trying to find a way to set the tiles that are currently in a 3D state into a 2D state. I spent part of that time on various websites looking for answers and the rest looking at youtube videos for it. I am worried that there is just no 2D functionality within LibGDX. If that is true, then i am going to have to find either a new game or a new program to build my project in. I spent the rest of the time in class working on the functionality of Level Loading and sprites. I was having a bug with the sprites in which they would overlap eachother on the same tile. To fix this, i made it so that whenever a sprite was place on a certain tile, that specific tile would be removed from the array to a "Used Tile" array. Which they could then be put back whenever the sprite is no longer on the tile.
