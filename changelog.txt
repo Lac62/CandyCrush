@@ -21,3 +21,13 @@ Change Log Dec15th:
 - Worked on level loading and how the functionality works with that
 - Worked on the functionality of the sprites in the game
 - Fixed a bug where sprites could overlap each other on the same tile
+
+Chang Log Dec20th:
+-Started new "2D" LibGdx Project
+-Set up the base LibGDX game launch screen in a seperate class
+-Set up the registry class for the game with basic draw, and selecting functionalities
+-Set up the camera for the game
+-Set up the tiles and borad for the game
+-Set up the randomized colors for the tiles in the game
+-Started working on the tapSelect function
+-Started working on the spriteSwitch function
