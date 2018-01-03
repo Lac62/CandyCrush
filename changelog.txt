@@ -7,6 +7,7 @@ Change Log Dec8th:
 -Learned to create a "world" in the project
 -Learned to change certain demensions in the world
 -Learned to change the design of the world
+-Logged 2 hours at home researching LibGDX
 
 Change Log Dec13th:
 -Implemented textures into the "world"
@@ -31,3 +32,4 @@ Chang Log Dec20th:
 -Set up the randomized colors for the tiles in the game
 -Started working on the tapSelect function
 -Started working on the spriteSwitch function
+-Logged aproximately 7 hours working on project over break
